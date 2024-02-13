@@ -1,2 +1,2 @@
 # My-internship-project-
-This is my first project internship project on pricing landing page 
+This is my first internship project on pricing landing page 
